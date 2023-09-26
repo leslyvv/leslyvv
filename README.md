@@ -1,5 +1,5 @@
 <h1>Hi, I'm Lesly! <br/><a href="https://github.com/leslyvv">Programmer</a> And <a 
-                                                                                  href="https://www.linkedin.com/in/lesly-vargs-2400b8157/">Computer Science Student</a></h1>
+                                                                                  href="https://www.linkedin.com/in/lesly-vargas-2400b8157/">Computer Science Student</a></h1>
 
 <h2>💻 Software Development Projects:</h2>
 

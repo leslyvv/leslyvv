@@ -2,8 +2,6 @@
                                                                                   href="https://www.linkedin.com/in/lesly-vargas-2400b8157/">Computer Science Student</a></h1>
 
 <h2>💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   
 
 <h2> Cybersecurity Projects:</h2>

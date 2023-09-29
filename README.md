@@ -8,7 +8,7 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/leslyvv/ActiveDirectoryLab)
+  - 
 
 <h2> 🤳 Connect with me:</h2>
 
